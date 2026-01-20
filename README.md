@@ -1,8 +1,7 @@
 # Rote-Interview-prep
-# 🚀 Transformer Interview Prep（系统化面试八股）
+# 🚀 Transformer Interview Prep
 
 > 本文系统整理 Transformer 相关 28 个高频面试问题，  
-> 所有问题均以 **“面试回答”视角** 编写，而非知识点罗列。
 
 ---
 
